@@ -1,0 +1,2 @@
+activate-wp-plugins
+===================
